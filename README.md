@@ -1,6 +1,9 @@
 # Slavic Visible Guns
  FiveM Visble Weapon Script  
  Join my discord and find other cool scripts https://discord.gg/slavicresources
+ Standalone Resource
+ Compatable With OX and QB Inventory
+ Drag and Drop!
  
 # Description
 
