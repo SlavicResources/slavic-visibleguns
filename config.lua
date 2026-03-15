@@ -15,7 +15,8 @@ Config.WeaponTypes = {
 ["weapon_raypistol"] = "handgun",
 ["weapon_microsmg"] = "handgun",
 ["weapon_minismg"] = "handgun",      
-["weapon_machinepistol"] = "handgun",   
+["weapon_machinepistol"] = "handgun",
+["weapon_pistol50"] = "handgun",
 
 ---Rifles (all other weapons)
 ["weapon_smg"] = "rifle",
